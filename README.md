@@ -1,6 +1,6 @@
 ### Raffaele Doti Junior Software Engineer 👋
 
-![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/carbon.png "Raffaele-Doti")
+![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/profile.png "Raffaele-Doti")
 
 :computer: _Software Engineer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 <!--
