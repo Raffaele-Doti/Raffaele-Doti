@@ -6,7 +6,7 @@
 
 
 
-:computer: _Software Engineer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :italy:
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
