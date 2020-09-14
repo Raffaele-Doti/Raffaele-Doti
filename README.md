@@ -1,4 +1,4 @@
-### Raffaele Doti Junior Software Engineer 👋
+### Raffaele Doti --> Junior Software Engineer :computer:
 
 
 
