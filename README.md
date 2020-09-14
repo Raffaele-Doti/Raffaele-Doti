@@ -1,11 +1,12 @@
 ### Raffaele Doti Junior Software Engineer 👋
 
-<!--
-**Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 ![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/carbon.png "Raffaele-Doti")
 
 :computer: _Software Engineer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+<!--
+**Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
