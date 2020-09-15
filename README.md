@@ -7,7 +7,7 @@
 ![Profile Views](https://gpvc.arturio.dev/Raffaele-Doti)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RaffaeleDoti-p-singh/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
 
-
+<br><br>
 :computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :it:
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
