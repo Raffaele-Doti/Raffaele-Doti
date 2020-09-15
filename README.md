@@ -1,6 +1,6 @@
 ### Raffaele Doti --> Junior Software Engineer :computer:
 
-<br>
+<br><br>
 
 ![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/profile.png "Raffaele-Doti")
 <br><br>
@@ -9,6 +9,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RaffaeleDoti-p-singh/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
 
 <br><br>
+
 :computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :it:
 
 <br><br>
