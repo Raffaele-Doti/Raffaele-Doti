@@ -1,10 +1,8 @@
 ### Raffaele Doti --> Junior Software Engineer :computer:
 
-
+<br>
 
 ![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/profile.png "Raffaele-Doti")
-
-
 ![GitHub followers](https://img.shields.io/github/followers/Raffaele-Doti?label=Follow&style=social)
 ![Profile Views](https://gpvc.arturio.dev/Raffaele-Doti)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RaffaeleDoti-p-singh/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
