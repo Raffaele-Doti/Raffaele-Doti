@@ -1,16 +1,15 @@
 ### Raffaele Doti --> Junior Software Engineer :computer:
 
-<br><br>
 ![Raffaele-Doti](https://github.com/Raffaele-Doti/Raffaele-Doti/blob/master/profile.png "Raffaele-Doti")
-<br/>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Raffaele-Doti?label=Follow&style=social)
 ![Profile Views](https://gpvc.arturio.dev/Raffaele-Doti)
 [![Linkedin: RaffaeleDoti](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaele-doti-490358162/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
-<br/>
+
 
 :computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :it:
-<br/>
+
 
 - 🔭 I’m currently working on the conversion of a thirty-year software from desktop application to cloud-based application.
 - 🌱 I’m currently learning Aws,Docker,Microservices Pattern
@@ -18,7 +17,6 @@
 - 📫 How to reach me: 'raffa.996.rd at gmail.com'
 - 😄 Pronouns: he/him
 
-<br/>
 
 ### My Tech Stack 
 
