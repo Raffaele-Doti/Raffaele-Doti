@@ -20,13 +20,13 @@
 
 <br/>
 
-#My Tech Stack 
+###My Tech Stack 
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![CSharp](https://img.shields.io/badge/-Docker-green?style=flat-square&logo=c-sharp)
+![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
