@@ -29,7 +29,7 @@
 ### Operating Systems 
 
 ![Windows](http://img.shields.io/badge/-Windows-007396?style=flat-square&logo=windows&logoColor=ffffff)
-![Macos](http://img.shields.io/badge/-MacOs-green?style=flat-square)
+![Macos](http://img.shields.io/badge/-MacOs-gray?style=flat-square)
 ![Linux](http://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux)
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
