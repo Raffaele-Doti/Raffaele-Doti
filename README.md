@@ -25,6 +25,12 @@
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
+
+### Operating Systems 
+
+![Windows](http://img.shields.io/badge/-Windows-007396?style=flat-square&logo=windows&logoColor=ffffff)
+![Macos](http://img.shields.io/badge/-MacOs-green?style=flat-square)
+![Linux](http://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux)
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
