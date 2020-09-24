@@ -33,6 +33,7 @@
 ![Postgres](http://img.shields.io/badge/-PostgreSQL-purple?style=flat-square&logo=postgresql)
 ![SqlServer](http://img.shields.io/badge/-SqlServer-red?style=flat-square&logo=microsoft-sql-server)
 ![Firebase](http://img.shields.io/badge/-Firebase-green?style=flat-square&logo=firebase)
+![MySql](http://img.shields.io/badge/-MySql-yellow?style=flat-square)
 
 ### Operating Systems 
 
@@ -40,6 +41,7 @@
 ![Macos](http://img.shields.io/badge/-MacOs-gray?style=flat-square)
 ![Linux](http://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux)
 ![Raspbian](http://img.shields.io/badge/-Raspbian-green?style=flat-square)
+
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
