@@ -26,11 +26,17 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
 
+### Databases
+
+![OracleDb](http://img.shields.io/badge/-Oracle-orange?style=flat-square&logo=oracle)
+![Postgres](http://img.shields.io/badge/-PostgreSQL-purple?style=flat-square&logo=postgresql)
+
 ### Operating Systems 
 
 ![Windows](http://img.shields.io/badge/-Windows-007396?style=flat-square&logo=windows&logoColor=ffffff)
 ![Macos](http://img.shields.io/badge/-MacOs-gray?style=flat-square)
 ![Linux](http://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux)
+![Raspbian](http://img.shields.io/badge/-Raspbian-green?style=flat-square)
 <!--
 **Raffaele-Doti/Raffaele-Doti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
