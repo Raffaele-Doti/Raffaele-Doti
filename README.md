@@ -30,6 +30,8 @@
 
 ![OracleDb](http://img.shields.io/badge/-Oracle-orange?style=flat-square&logo=oracle)
 ![Postgres](http://img.shields.io/badge/-PostgreSQL-purple?style=flat-square&logo=postgresql)
+![SqlServer](http://img.shields.io/badge/-SqlServer-red?style=flat-square&logo=microsoft-sql-server)
+![Firebase](http://img.shields.io/badge/-Firebase-green?style=flat-square&logo=firebase)
 
 ### Operating Systems 
 
