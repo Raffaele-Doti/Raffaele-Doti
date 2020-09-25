@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Raffaele-Doti?label=Follow&style=social)
 ![Profile Views](https://gpvc.arturio.dev/Raffaele-Doti)
 [![Linkedin: RaffaeleDoti](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaele-doti-490358162/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
-[![DevTo :RaffaeleDoti](http://img.shields.io/badge/-DevDotTo%20:%20RaffaeleDoti-black?style=flat-square&logo=dev.to)](https://dev.to/raffaeledoti)
+[![DevTo :RaffaeleDoti](http://img.shields.io/badge/-RaffaeleDoti-black?style=flat-square&logo=dev.to)](https://dev.to/raffaeledoti)
 
 
 :computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :it:
