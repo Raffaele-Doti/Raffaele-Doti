@@ -44,6 +44,7 @@
 ![MySql](http://img.shields.io/badge/-MySql-yellow?style=flat-square&logo=mysql)
 ![MongoDb](http://img.shields.io/badge/-MongoDb-47A248?style=flat-square&logo=mongoDb&logoColor=white)
 ![As400](http://img.shields.io/badge/-AS400-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![DB2](http://img.shields.io/badge/-DB2-orange?style=flat-square)
 
 ### Operating Systems 
 
