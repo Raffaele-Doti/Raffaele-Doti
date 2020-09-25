@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Raffaele-Doti?label=Follow&style=social)
 ![Profile Views](https://gpvc.arturio.dev/Raffaele-Doti)
 [![Linkedin: RaffaeleDoti](https://img.shields.io/badge/-RaffaeleDoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raffaele-doti-490358162/)](https://www.linkedin.com/in/raffaele-doti-490358162/)
-[![DevTo :RaffaeleDoti](http://img.shields.io/badge/-DevDotTo%20:%20RaffaeleDoti-black?style=flat-square)](https://dev.to/raffaeledoti)
+[![DevTo :RaffaeleDoti](http://img.shields.io/badge/-DevDotTo%20:%20RaffaeleDoti-black?style=flat-square&logo=dev.to)](https://dev.to/raffaeledoti)
 
 
 :computer: _Junior Software Engineer at [ProiettiTech](http://www.proietti.it/)_ :desert_island:Living in Ascoli Piceno :it:
@@ -23,6 +23,8 @@
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Javascript](http://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
+![NodeJs](http://img.shields.io/badge/-NodeJs-green?style=flat-square&logo=node.js)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
