@@ -30,7 +30,7 @@
 ![AspNet](http://img.shields.io/badge/-Asp.Net-purple?style=flat-square)
 ![SQL](http://img.shields.io/badge/-SQL-gray?style=flat-square)
 ![PL_SQL](http://img.shields.io/badge/-PL_SQL-cyan?style=flat-square)
-![LinuxBash](http://img.shields.io/badge/-LinuxBash-33FF6D?style=flat-square)
+![LinuxBash](http://img.shields.io/badge/-LinuxBash-33FF6D?style=flat-square&logo=gnubash)
 ![WindowsScripting](http://img.shields.io/badge/-WindowsScripting-FF6A0B?style=flat-square)
 ![ArduinoDialet](http://img.shields.io/badge/-ArduinoDialet-0BABFF?style=flat-square)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
