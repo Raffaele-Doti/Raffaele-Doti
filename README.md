@@ -27,6 +27,8 @@
 ![NodeJs](http://img.shields.io/badge/-NodeJs-green?style=flat-square&logo=node.js)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AspNet](http://img.shields.io/badge/-Asp.Net-purple?style=flat-square)
+![SQL](http://img.shields.io/badge/-SQL-gray?style=flat-square)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
 
 ### Databases
