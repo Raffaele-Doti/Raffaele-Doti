@@ -29,6 +29,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AspNet](http://img.shields.io/badge/-Asp.Net-purple?style=flat-square)
 ![SQL](http://img.shields.io/badge/-SQL-gray?style=flat-square)
+![PL_SQL](http://img.shields.io/badge/-PL_SQL-cyan?style=flat-square)
 ![CSharp](https://img.shields.io/badge/-CSharp-green?style=flat-square&logo=c-sharp)
 
 ### Databases
